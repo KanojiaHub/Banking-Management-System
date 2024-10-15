@@ -16,5 +16,5 @@ A Banking Management System developed in C that provides essential banking opera
 - Secure Transactions
 
 
-## PIN-based authentication for ATM services.
-Verification and validation for user inputs.
+### PIN-based authentication for ATM services.
+### Verification and validation for user inputs.
