@@ -8,12 +8,12 @@ Account Management
 - Update existing account details.
 - Delete accounts.
 - View account information.
-- ATM Services
+ATM Services
 
-Cash Withdrawal.
-Balance Inquiry.
-Account Statement.
-Secure Transactions
+- Cash Withdrawal.
+- Balance Inquiry.
+- Account Statement.
+- Secure Transactions
 
 PIN-based authentication for ATM services.
 Verification and validation for user inputs.
