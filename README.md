@@ -4,11 +4,11 @@ A Banking Management System developed in C that provides essential banking opera
 Features
 Account Management
 
-Add new customer accounts.
-Update existing account details.
-Delete accounts.
-View account information.
-ATM Services
+- Add new customer accounts.
+- Update existing account details.
+- Delete accounts.
+- View account information.
+- ATM Services
 
 Cash Withdrawal.
 Balance Inquiry.
